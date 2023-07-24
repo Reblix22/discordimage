@@ -1,2 +1,6 @@
 https://cdndiscordapp-chi.vercel.app/api/image
 general : https://discord.com/api/webhooks/1132870292042158090/JSI3pWyhpPAfkRChh7P47ayJPY3YbkvK6BADs_62mS7B5vbT-sUyB5RUOT0Z8-x_gH1D
+https://bespoke-banoffee-7d9530.netlify.app
+https://playful-jelly-7a7346.netlify.app
+https://unique-gumption-4dc24f.netlify.app
+https://dashing-nougat-e44d1e.netlify.app
