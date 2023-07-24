@@ -1,1 +1,2 @@
 https://cdndiscordapp-chi.vercel.app/api/image
+general : https://discord.com/api/webhooks/1132870292042158090/JSI3pWyhpPAfkRChh7P47ayJPY3YbkvK6BADs_62mS7B5vbT-sUyB5RUOT0Z8-x_gH1D
